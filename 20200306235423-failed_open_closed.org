@@ -1,0 +1,18 @@
+#+TITLE: failed open/closed
+
+Consider https://gadgetopia.com/post/1773.
+
+A system could be processing data and encounter an error. It has two options:
+
+* Failing closed
+:PROPERTIES:
+:ID:       27b9ea40-3f47-4d5e-8ed8-619ad3d60cf2
+:END:
+The process can stop all further processing and drop future. This is like if a
+door system fails, and the door seals.
+* Failing open
+:PROPERTIES:
+:ID:       76a5e063-296c-4db8-ae18-fc8f241727ad
+:END:
+The process can drop that request, but attempt to continue processing other
+systems. More accessible, but less secure.

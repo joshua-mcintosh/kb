@@ -1,0 +1,63 @@
+#+TITLE: impermanence
+
+#+BEGIN_QUOTE
+“Each night, when I go to sleep, I die. And the next morning, when I wake up, I
+am reborn.”
+
+― Mahatma Gandhi
+#+END_QUOTE
+
+It's important to greet each morning as if your last, and each evening as if
+it's the end. A time will come when you aren't here, and a time will come when
+nothing is here. Make sure things are the way you want them.
+
+Some of this is, to a degree, meandering and not really worth anything. That's
+okay.
+
+* People are impermanent
+:PROPERTIES:
+:ID:       60064792-a74f-40b8-b326-33f56d4c439e
+:END:
+We tend to think of ourselves as a single person, but we're really the result of
+a previous iteration's decisions. In conversation I often refer to my past self
+as 'previous josh', not just because it's silly, but because it's foolish to map
+the person I am now to who I was 'then' -- I don't trust my memory well enough
+to believe I know his motivations, feelings or thoughts, and I don't have the
+same ones now.
+* Thoughts are impermanent
+:PROPERTIES:
+:ID:       410141ac-c325-47f3-a4be-6d5a03e1327e
+:END:
+The things we think about, the way we think about them -- those change over
+time, without coherent reasons necessarily, though surely with rationalized
+reasons. Even short spans of time, say the course of a conversation, you could
+end up changing your mind -- perhaps someone gives you more information than you
+had before, and your rationale finds this sufficient to 'change your mind'.
+* Memories are impermanent
+:PROPERTIES:
+:ID:       c8bdeb48-1cb6-47a8-9a9f-db1b2c5a3a40
+:END:
+Setting aside degenerative disease or interactions, There's some evidence that
+recalling memory alters it (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4183265/).
+
+Notes are thoughts and memories, but they don't have life.
+* Processes are impermanent
+:PROPERTIES:
+:ID:       c80b8caf-1e8f-449a-ac81-e1b0df7aa3e8
+:END:
+Yes, computer processes are different from what we've been talking about so far,
+but not too far out.
+
+A process is a set of instructions -- things to do. "A program" isn't some
+constituent thing, instead it's resources and the things done with them. There's
+some philosophical phoey that can be dug into with purely functional programming
+languages, I guess -- talking about state and just what a pure function is, etc.
+** Containers are processes
+:PROPERTIES:
+:ID:       4b0b91e4-f0cb-4c29-8ae5-487113ab69ec
+:END:
+And yes, containers are impermanent too. Keep in mind that many people think of
+the resources that make up a container as a part of the container, which -- well
+-- I guess it's kind of right, but it implies that a 'stopped' container really
+ceases to exist, when it really just shifted from a process to an entry in a
+ledger.

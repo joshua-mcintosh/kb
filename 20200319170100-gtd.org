@@ -1,0 +1,8 @@
+#+TITLE: GTD
+#+FILETAGS: :kb:knowledgebase:gtd:notetaking:
+
+* Definition
+Getting things Done or GTD is a system for ingesting tasks or information and
+processing it. It's meant to organize data in a way that takes pressure off of
+the mind and externalizes information. In this sense, it's similar to
+Zettelkasten -- in terms of externalizing data.

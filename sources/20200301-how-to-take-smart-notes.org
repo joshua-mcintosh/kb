@@ -1,0 +1,316 @@
+#+TITLE: How To Take Smart Notes
+#+ROAM_ALIAS: "HTTSN"
+
+* Part 1
+:PROPERTIES:
+:ID:       1f1f60ff-d7d7-48c7-a811-b98160dc54a8
+:END:
+Your thoughts are your process - are knowledge in motion, but your thoughts are
+[[file:../20200306225841-impermanent.org][impermanent]]. Notes are permanent (mostly), but they aren't animated. Smart notes
+is a system that collects your thoughts, organizes them in a concerted way, and
+animates them as you work with them. This takes cognitive load off of you and
+clears the way for your brain to do majority processing, not majority recalling.
+
+** Introduction
+:PROPERTIES:
+:ID:       5a90dd37-2568-465c-8dad-579009de9f4c
+:END:
+Writing is thinking that outlives the biological processes. But, writing by
+itself has no locomotion - it documents what was thought / done at a specific
+time and place. HTTSN and Luhmann advocate for notes that evolve through
+linking, a la neurons.
+
+#+BEGIN_QUOTE
+Writing is _not_ what follows research, learning or studying, it is the /medium/
+of all this work. -- HTTSN
+#+END_QUOTE
+
+Longer notes:
+#+begin_verse
+Writing is central to academic pursuit. Even so, it is not often discussed; when
+it is, focus is usually on composing large pieces (books, articles, papers,
+theses). That's reasonable as those are big events, but it leaves a lack of
+focus on knowledge bases and more regular writing.
+
+Where those topics _are_ covered, it's usually in two variety:
+
+1) Formal requirements for notes (like structure or style).
+2) Psychological studies, which instruct on self-care when you write.
+
+What books in those categories have in common is starting with a blank page --
+not great, as it ignores the need for structuring as you go along. HTTSN shows
+how to turn _thoughts_ and _discoveries_ into their own pieces and build a net
+of rich knowledge, working and connected together.
+#+end_verse
+
+
+** Everything you need to know
+:PROPERTIES:
+:ID:       daeaa646-2773-4776-8678-f16a5192b6a5
+:END:
+The book puts forth a notion of ideas as a first-class citizen and notes as the
+constituent parts of an idea made flesh. Editing your notes and linking them
+together givens them life, in a sense. You also need to utilize passion to drive
+the notes -- you'll only write about what interests you in some sense.
+
+Longer notes:
+#+begin_verse
+The book asks what we can do to leading up to when we need notes to prepare for
+them? The oft-cited reasons for writers block and notetaking failure aren't as
+strong as necessarily seems.
+
+Ultimately, the work you produce will be predicated on the notes you create over
+time. A bad notetaking flow controls you, but you can steer a good one.
+
+Planning versus learning / working _in_ your structure: planning puts a
+structure _around_ you and makes you inflexible.  This costs willpower to
+maintain.
+
+The book tries to convey that this is geared to students -- the ones with high
+goals, high curiosity / drive. Bad students color in the lines and experience
+Dunning-kruger effect. Good students are always looking into what they don't
+know, but are likely to have impostor syndrome. /(Note: it reads a little bit
+like pandering -- I mean, I have a tad more EQ than that!)/.
+
+#+end_verse
+
+*** Good solutions are simple - and unexpected
+:PROPERTIES:
+:ID:       51a2ff9a-c155-4795-b2cf-fbd116847937
+:END:
+Note: this slots into programming's KISS very nicely.
+
+You need a slipbox (somewhere to store notes and a method for organizing them)
+and a habit of using it.
+
+#+BEGIN_QUOTE
+The best way to deal with complexity is to keep things as simple as possible and
+to follow a few basic principles. The simplicity of the structure allows
+complexity to build up where we want it: on the content level. -- HTTSN
+#+END_QUOTE
+
+#+begin_verse
+You aren't rebuilding everything -- you're doing things new from now on. Also,
+we aren't reinventing, we're using two ideas to get things together:
+
+1) The slipbox - storage, sure, a literal box -- but also how you work with /
+   file notes in that box.
+2) Building it into your routine (GTD). Getting the things in your mind out
+   of your mind means you can generate more from it. What do we get from David
+   Allen? You have to take the holistic perspective - shape the whole picture,
+   not just the little pieces. You need a system to grown your data, like an ant
+   colony.
+
+#+end_verse
+*** The Slip-box
+:PROPERTIES:
+:ID:       92d186bb-6fa2-42b8-ad85-f408fbfa80a3
+:END:
+Used by Niklas Luhmann.
+
+When he came across something interesting, he wrote it on a note and put it
+away. This wasn't working for him, though, so he flipped it into the slip-box.
+
+He started to build out new categories for notes, linking their contexts between
+them. He rearranged the notes to 'allow for dialogue'. He parlayed his notes
+system from working as a public servant to becoming a professor of sociology.
+
+#+BEGIN_QUOTE
+My project: theory of society. Duration: 30 years. Costs: zero. -- Luhmann
+#+END_QUOTE
+"(In sociology, a "theory of society" is the mother of projects)"
+
+Luhmann oft said approximately 'I let my slip-box think for me'.
+
+*** The slip-box manual
+:PROPERTIES:
+:ID:       a97617a0-1ad6-44e2-ad33-01451d8ef84d
+:END:
+How does the slip-box work?
+
+Well, there's two slip-boxes really: a bibliography and the main slipbox
+containing and generating his ideas (mostly to what he's read).
+
+Whenever he read, he would write the bibliographic info on a card and make a
+brief note on the content on the flip-side. Then, he'd revisit the notes shortly
+after and think about their relevance for his own thinking/writing. He'd
+synthesize ideas, and write the idea, comments, thoughts on paper, only one
+paper for each idea and restricting himself to one side of paper, to make it
+easier without having to strip them from the box. They usually were brief enough
+to fit on one sheet.
+
+Notes can be branched off of one another (a la mercurial / git branching, with
+its own numbering system), or notes can have reciporical backlinks and stored
+separately (think hyperlinks / unstructured wikis). (HTTSN does say its rather
+misleading to call this his own personal wikipedia, huh...). Linking notes
+together allowed him to use the same data in different contexts, allowing
+topical systems to develop ground-up, instead of top-down.
+
+The last piece his system had was an index. He could use the index to pin
+primers to topics.
+** Everything you need to do.
+:PROPERTIES:
+:ID:       774d86a9-cd26-47b6-8ad8-7cfa2f1b0615
+:END:
+Ok - imagine notetaking without a blank sheet. You have a rough draft of your
+paper made out for you. You just need to revise it and send it off. There's
+still work to do -- you need to edit your work, rephrase sentences, clear up
+redundancies, _cultivate_ the multiplicity of ideas. But at least the work is
+straightforward. Better, the preparation for the document is straightforward as
+well.
+** Everything you need to have
+:PROPERTIES:
+:ID:       5cbafa52-ecda-4c31-8adb-e8fd6c149db0
+:END:
+Really, all you need is something to take notes in-the-moment, something to
+store references in, a space to put your main notes, and something to write it
+all with.
+
+Example tools:
+- Pen and paper
+- zotero
+- Daniel Ludecke's Zettelkasten
+- An editor (one that ties to your reference manager is recommended)
+* Part 2: four underlying principles
+:PROPERTIES:
+:ID:       1128ea99-4719-4597-bfb0-3ee03e458e29
+:END:
+** Writing is the only thing that matters
+:PROPERTIES:
+:ID:       005888b7-693f-41c2-b2da-9b3a5d5fdb57
+:END:
+*** Tools and data are important, but more important is using them
+SCHEDULED: <2020-03-07 Sat>
+:PROPERTIES:
+:ID:       a4faf5de-a1cc-4f7f-a5fd-b60397335074
+:END:
+
+See collectors fallacy.
+
+*** Writing isn't a demonstration of knowledge -- writing is the knowledge itself
+SCHEDULED: <2020-03-07 Sat>
+:PROPERTIES:
+:ID:       aae7b0ca-fcfc-4848-8efc-bba89538e814
+:END:
+
+Academic writing is driven by a topic or assignment, we're writing is a part of the process. In zettelkasten, the writing is a culmination and written record of the knowledge. Academic writing starts with a question, zettelkasten starts with knowledge _and creates the questions_.
+
+quoting the book, studying does not prepare students for independent research, it /is/ independent research (pp 35).
+
+This also changes how you work through academic tasks, as you restructure them around efficient learning and aiming for your notes, to "get to the point where actual open questions arise, as these are the only questions worth writing about" (Pp 37). It shifts focus in reading too: aim for the relevant above all else and read to think to synthesize new knowledge (Pp 37).
+** Simplicity is paramount
+:PROPERTIES:
+:ID:       a5ead5bf-d7ae-4c72-b988-0f6c9df8798e
+:END:
+Your notes live in the ZK, but there _are_ different kinds of notes:
+- throw-away notes - write them, process them, trash them. For when you're busy
+  or in-the-flow. /These must be acted upon, or else they expire!/
+
+  #+BEGIN_QUOTE
+If you already know that you will not go back to [the notes], don't take these
+kind of notes in the first place. Take proper notes instead. (Pp. 44)
+  #+END_QUOTE
+
+- Permanent notes - they go in the box, _reference_ or _ture notes_. These are
+  the important ones!
+
+  #+BEGIN_QUOTE
+    Permanent notes, on the other hand, are written in a way that can still be
+    understood even when you have forgotten the context they are taken from. (Pp 44)
+  #+END_QUOTE
+
+  Ref notes are straightforward: bibliographic, referring to what was
+  read/seen/heard. Main notes take curation to make them slef contained.
+
+  #+BEGIN_QUOTE
+    I make a note with the bibliographic details. On the backside I would write
+    'on page x is this, on page y is that' and then it goes into the
+    bibliographic slip-box where I collect everything I read. (Hagen, 1997)
+    (Pp 44)
+  #+END_QUOTE
+
+  Give the context some thought in eg. your daily review.
+
+- project notes - notes you keep around for the project, then trash.
+
+  Workspaces help with project notes quite a bit, as you can group permanent and
+  non permanent datum.
+
+It's important to consider what trash notes to transform to permanent, what
+notes are permanent vs project, what's worth keeping. And don't let yourself
+overbalance in any of these.
+** Nobody ever starts from scratch
+:PROPERTIES:
+:ID:       5603cb78-8778-4e12-8029-622d3ac0b9c0
+:END:
+The recommended path for study is to select a topic, narrow to something to
+focus on down to a single question your research and analysis will address.
+HTTSN suggests going in the opposite direction.
+
+To know where to start, and plan research, and know what to read, (to eventually
+write,) you probably have to know _something_ about the topic. Don't let a
+generic plan try to guide you -- let things grow out of your interests and
+develop from there.
+
+ZK means you'll have information for generating questions, as well as
+information to start with -- also gives us a wider view of possible topics,
+instead of a narrow, dictated view.
+
+Brainstorming is often suggested a  kickstarter, because - lacking a durable
+record, you only have your brain anyway. It's problematic as it doesn't generate
+information, moreso reminds of such.
+** Let the work carry you forward
+:PROPERTIES:
+:ID:       e58c7a57-124f-4deb-af8e-45ddacd5d0a8
+:END:
+* 6 steps to successful writing
+** Separate and interlocking tasks
+*** Give each task your undivided attention
+*** Multitasking is not a good idea
+*** Give each task the right kind of attention
+*** Become an expert instead of a planner
+Experts use intuition that comes from learning, versus beginners needing to work
+from plans/lessons. This leads teachers to mistaking familiarity with the plan
+with expertise, BTW: experts adapt, beginners are great at following the steps.
+
+In experts, the intuition is "an incorporated history of experience" (pp. 67).
+
+Professional academic and nonfiction writing depends on feedback loops and
+experience (pp 67), and so it depends on organizing practical aspects. The
+slip-box doesn't tell you what to do, it gives you the structure to do the steps
+when you need to do them.
+*** Get closure
+We need to save our short-term memory, the stack is small (7-9 discrete items)
+(pp 68). But understanding the structure of data can help with remembering data
+more efficiently -- understanding _is_ learning, and [[file:../20200319165200-understanding.org][understanding]] takes place
+by connecting new ideas to other ideas -- just like the Zettelkasten.
+
+**** The Zeigarnik effect
+open tasks tend to occupy our short-term memory - until they are done (pp. 70).
+Externalizing information gets it out of mind and allows you to move on to the
+next thing, keeping the information from weighing on you. Fortunately, you don't
+need to actually finish, you just need to write down the task to help dispel it.
+This is the secret to [[file:~/org/20200319170100-gtd.org][GTD]]. The slip-box has the same secret:
+
+1) Break down the big task of writing to smaller tasks,
+2) itemize and record those in your Zettelkasten,
+3) write down the outcome of your thinking esp. the connections to other things
+4) Noting these things gives you a chance to return to them, and ideally stores
+   it in the context which you thought about them.
+*** Reduce the number of decisions
+Attention, memory, and now willpower. TL;DR many consecutive decisions is
+straining.
+
+:ego_depetion_defined:
+"We use the term _ego depletion_ to refer
+to a temporary reduction in the self's capacity or willingness to engage in
+volitional action (including controlling the environment, controlling the self,
+making choices, or initiating action) caused by prior exercise of volition"
+(pp 72).
+:end:
+
+Many things can eat at your willpower, things that happen to you, things you do.
+Because Zettelkasten is a system, it removes a lot of the need to decide by
+giving you all this structure.
+
+Worth also referring to [[file:../20200319172400-triggers.org][Triggers]], which seems to cover very similar ground.

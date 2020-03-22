@@ -1,0 +1,21 @@
+#+TITLE: tainting
+
+In a broad sense, tainting is the act of marking an untampered program or system
+as tampered.
+
+* Environment poisoning
+:PROPERTIES:
+:ID:       b9ad7f02-29a7-4bd6-ac9b-5ebe286639bf
+:END:
+Sometimes, unexpected state can cause issues in processes. For example, consider
+http://b/144796704. In there, an EDAFarm process executed a docker command and
+saw it fail. The ultimate root cause was that an enviornment variable
+(LD_LIBRARY_PATH) caused the docker process -- which was otherwise unrelated --
+to pull in an obsolete version of some library and fail out. The solution was to
+clear the LD_LIBRARY_PATH variable for that invocation, which let things work
+just fine following that.
+
+As a related-but-opposite problem, consider http://b/149326531#comment35. There,
+we have a process that, in testing, had the desired data and exhibited the
+behavior we want. In production, the process did _not_ have the desired data,
+and so failed ([[file:20200306235423-failed_open_closed.org::*Failing open][Failing open]], unfortunately).

@@ -1,0 +1,7 @@
+#+TITLE: understanding
+#+FILETAGS: :zettelkasten:kb:knowlege:understanding:
+
+*Understanding* is the process of connecting new information or concepts with
+ previously internalized information or concepts. The process can take place
+ internally while learning (although learning is understanding), and can be
+ emulated by connecting documents in a zettelkasten by way of references or links.

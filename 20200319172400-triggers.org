@@ -1,0 +1,4 @@
+#+TITLE: Triggers
+
+Triggers is a book on controlling your habits and environment through accounting
+for your actions and modifying them.
