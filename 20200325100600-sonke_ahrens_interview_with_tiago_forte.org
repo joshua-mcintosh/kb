@@ -1,0 +1,68 @@
+#+TITLE: Sonke Ahrens interview with tiago forte
+* Sonke Ahrens interview
+Interview with the author of [[file:../org/sources/20200301-how-to-take-smart-notes.org][How To Take Smart Notes]]
+
+** general notes
+The system is at your service, not the other way around (example: what Luhmann
+did isn't God's word).
+
+** about the author
+Professor of philosophy of education, professor of philosophy of science. Main
+interest in the book is 'how to think better'. Background in systems therapy,
+doing online coaching on zettelkasten. Might do more on his website in future,
+subscribe to his mailing list if interested.
+** Background of HTTSN
+Read luhmann but didn't take ZK seriously initially. Interest sparked based on
+Luhmanns theory of external mind. Generated ideas around notetaking and captured
+it. Externalising information helps it act as a conversation partner -- it makes
+a hardcopy of your thoughts and challenges confirmation bias.
+
+Also wrote the book to challenge some notions of higher education -- prepping
+for planning versus growing ideas. "Tech. can help make something open to change."
+** Do you teach ZK in your classes?
+Cf. how do you convince students to write more notes? Well, the ones who know
+the value of good notes are the ones at final exams (eg. at the end). for those
+that just start it's a great idea to start with, however school has taught them
+tools not methodology. My solution: bring older and younger students together to
+bridge the knowledge.
+** What surprised you with ZK?
+Not sure there were surprises but its interesting how it changes throughput.
+Maybe some questions about technology.
+** What advice do you have for newbs?
+Don't pull your notes in. When you are building your notes, make explicit what
+you already know (rephrase your knowledge, don't port your notes). That helps to
+build the KB naturally (remember, you don't start with nothing). Luhmann started
+with a hierarchy (his topics) as a starting point. That said, _don't_ hard-wire
+the hierarchy into the system.
+
+A lot of things might be interesting, but look for a problem. That focuses.
+** File by context not subject?
+What is a context? How do I know what those are if we are working on this in the
+future?
+
+Contexts/topics aren't mutually exclusive. Don't ask 'what collection does this
+live in' (Collectors fallacy / more topic-based), but 'what discussions can this
+contribute to?' (context - it's place in view of other content). It'll make a
+more active difference. This also means you may want to write the note already
+in dialog with preexisting notes -- treat your system as a conversation partner
+and connect.
+
+Context requires more active thinking as you're writing notes, probably.
+
+HOST: I want to break my filter bubble - I gather information that surprises me.
+** Space repetition
+HOST: I have beef with SR. Seems backwards from the external brain. Do you use
+it?
+
+I don't, I don't need to memoryize anything. Some pros might need that (ie.
+actors) but otherwise it commonly occurs in an artificial setting in academia.
+In this I'd say -- if you can't memorize, build the idea out with more
+connections. I _do_ like the feeling of having things top-of-mind vs. feeling
+forgetful - having a system in place to revisit things on a regular basis acts
+similarly to SR in that sense.
+** What's on your mind?
+- How to <...> without getting to distracted?
+- How to work against biases/dealing with partisanship and filter-bubbles?
+  - Can education help there?
+- What environment do we need to make insight more likely?
+- What do we need to change our mind fundamentally?
