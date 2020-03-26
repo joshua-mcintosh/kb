@@ -314,3 +314,26 @@ Because Zettelkasten is a system, it removes a lot of the need to decide by
 giving you all this structure.
 
 Worth also referring to [[file:../20200319172400-triggers.org][Triggers]], which seems to cover very similar ground.
+** read for understanding
+*** 10.1 Read with a pen+paper in hand
+
+- write literature notes with _an eye to make connections_ with your other notes -- think able this datum in the other notes context.
+- Adapt lit notes to the density of the subject -- simple? you may find situations where a whole book gets a single sentence. Flip side, the more complex, the denser the lit notes.
+
+This tends to happen with new subjects as we are dining in more with new stuff. Take those big notes, don't skip em.
+- a students approach to research reading might be too tool oriented (sq3r) and not methodical or considerate of the content of the text.
+
+_The end goal is building your thoughts and capturing them in a permanent note, not summarizing the book_.
+
+- consider taking notes by hand: this connects with thought better. It is slower and more permanent--it requires more thoughtfulness.
+
+*** 10.2 keep an open mind
+
+It's common to read and only see the things that agree with you -- confirmation bias. Everyone is susceptible, but scientists and researchers are encouraged to fight it and find critical ideas and information.
+
+We want our writing system fight confirmation bias automatically. Remember, we're trying to generate ideas from the bottom-up, so when it comes to reading we:
+
+- ensure we understand the text and our accurate about its contents,
+-then we harvest insights and connect it in context to our own notes.
+
+In the slip box, agreement is boring--conflict is attractive.
