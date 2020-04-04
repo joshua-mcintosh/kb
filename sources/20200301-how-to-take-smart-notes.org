@@ -1,5 +1,6 @@
 #+TITLE: How To Take Smart Notes
 #+ROAM_ALIAS: "HTTSN"
+#+FILETAGS: :data organization:notes:zettelkasten:knowledgebase:effective thinking:thinking:
 
 * Part 1
 :PROPERTIES:
@@ -11,7 +12,7 @@ is a system that collects your thoughts, organizes them in a concerted way, and
 animates them as you work with them. This takes cognitive load off of you and
 clears the way for your brain to do majority processing, not majority recalling.
 
-** Introduction
+** 1 Introduction
 :PROPERTIES:
 :ID:       5a90dd37-2568-465c-8dad-579009de9f4c
 :END:
@@ -43,8 +44,7 @@ how to turn _thoughts_ and _discoveries_ into their own pieces and build a net
 of rich knowledge, working and connected together.
 #+end_verse
 
-
-** Everything you need to know
+** 2 Everything you need to know
 :PROPERTIES:
 :ID:       daeaa646-2773-4776-8678-f16a5192b6a5
 :END:
@@ -148,7 +148,7 @@ topical systems to develop ground-up, instead of top-down.
 
 The last piece his system had was an index. He could use the index to pin
 primers to topics.
-** Everything you need to do.
+** 3 Everything you need to do.
 :PROPERTIES:
 :ID:       774d86a9-cd26-47b6-8ad8-7cfa2f1b0615
 :END:
@@ -158,7 +158,7 @@ still work to do -- you need to edit your work, rephrase sentences, clear up
 redundancies, _cultivate_ the multiplicity of ideas. But at least the work is
 straightforward. Better, the preparation for the document is straightforward as
 well.
-** Everything you need to have
+** 4 Everything you need to have
 :PROPERTIES:
 :ID:       5cbafa52-ecda-4c31-8adb-e8fd6c149db0
 :END:
@@ -175,7 +175,7 @@ Example tools:
 :PROPERTIES:
 :ID:       1128ea99-4719-4597-bfb0-3ee03e458e29
 :END:
-** Writing is the only thing that matters
+** 5 Writing is the only thing that matters
 :PROPERTIES:
 :ID:       005888b7-693f-41c2-b2da-9b3a5d5fdb57
 :END:
@@ -198,7 +198,7 @@ Academic writing is driven by a topic or assignment, we're writing is a part of 
 quoting the book, studying does not prepare students for independent research, it /is/ independent research (pp 35).
 
 This also changes how you work through academic tasks, as you restructure them around efficient learning and aiming for your notes, to "get to the point where actual open questions arise, as these are the only questions worth writing about" (Pp 37). It shifts focus in reading too: aim for the relevant above all else and read to think to synthesize new knowledge (Pp 37).
-** Simplicity is paramount
+** 6 Simplicity is paramount
 :PROPERTIES:
 :ID:       a5ead5bf-d7ae-4c72-b988-0f6c9df8798e
 :END:
@@ -239,7 +239,7 @@ kind of notes in the first place. Take proper notes instead. (Pp. 44)
 It's important to consider what trash notes to transform to permanent, what
 notes are permanent vs project, what's worth keeping. And don't let yourself
 overbalance in any of these.
-** Nobody ever starts from scratch
+** 7 Nobody ever starts from scratch
 :PROPERTIES:
 :ID:       5603cb78-8778-4e12-8029-622d3ac0b9c0
 :END:
@@ -259,12 +259,12 @@ instead of a narrow, dictated view.
 Brainstorming is often suggested a  kickstarter, because - lacking a durable
 record, you only have your brain anyway. It's problematic as it doesn't generate
 information, moreso reminds of such.
-** Let the work carry you forward
+** 8 Let the work carry you forward
 :PROPERTIES:
 :ID:       e58c7a57-124f-4deb-af8e-45ddacd5d0a8
 :END:
 * 6 steps to successful writing
-** Separate and interlocking tasks
+** 9 Separate and interlocking tasks
 *** Give each task your undivided attention
 *** Multitasking is not a good idea
 *** Give each task the right kind of attention
@@ -314,7 +314,8 @@ Because Zettelkasten is a system, it removes a lot of the need to decide by
 giving you all this structure.
 
 Worth also referring to [[file:../20200319172400-triggers.org][Triggers]], which seems to cover very similar ground.
-** read for understanding
+** 10 read for understanding
+Ideas to consider: Deliberate practice and context through connections.
 *** 10.1 Read with a pen+paper in hand
 
 - write literature notes with _an eye to make connections_ with your other notes -- think able this datum in the other notes context.
@@ -337,3 +338,213 @@ We want our writing system fight confirmation bias automatically. Remember, we'r
 -then we harvest insights and connect it in context to our own notes.
 
 In the slip box, agreement is boring--conflict is attractive.
+*** 10.3 Get the Gist
+Concise summary takes deliberate practice. It requires you to _read_ and
+_understand_ so that you may _synthesize_ your summary.
+
+Recognizing the patterns of not just content, but the writing strategy of the
+author, helps to cycle through quickly ("circle of virtuosity: Reading becomes
+easier, we grasp the gist quicker" etc (pp 83)). That said, it requires the
+reader to be responsible/accountable to themselves and use their judgment when
+reading. Luhmann suggests that permanent notes help train towards that; by
+rewriting what you read to your own words, you're shifting from rout copying to
+synthesis, focusing on:
+
+#+begin_quote
+"frames, patterns and categories in the observations,
+or the conditions/assumptions, which enable certain, but not other descriptions."
+#+end_quote
+
+Remember, this note-taking is thinking made durable, so your practice spills
+over to other expressions, like your spoken descriptions and general critical
+thinking.
+*** 10.4 Learn to read
+If you can't explain it simply, you don't understand it (cf. Feynman). Permanent
+notes are the same -- it just turns out you're explaining it to yourself in the
+future, after you've forgotten all this crap.
+
+Avoid 'familiarity' by reading and re-reading. Instead, as you read, record
+notes and your own thoughts. This counteracts the 'exposure effect' -- where you
+start associating with what you're reading, instead of just reading and
+understanding. Translating your notes into permanent notes tests whether or not
+you really understand it -- and again, this takes deliberate practice.
+*** 10.5 Learn by reading
+Learning requires deliberate practice and a concerted effort. The reason for
+this is that you must understand what you're reading, which will require
+thinking carefully about the text. Instead of re-reading a text for
+comprehension Sonke recommends elaboration -- in this context, putting what
+you've learned or understood into your own words, and connecting it to other
+knowledge.
+
+Working with a slip-box doesn't mean you put the data there and forget it.
+Remember, you're sieving the knowledge through your wetware first. Instead, it's
+just a external storage for accumulated datum.
+
+In conclusion, the slipbox is an external store for the data and the connections
+between them, but your brain is the think processing. Working through the
+processes here will help to train both.
+** 11 Take smart notes
+*** Intro
+When you read, try to make connections. It's useful to  read a text with the
+/text's/ context in mind as well as /other/ possible contexts -- and consider
+what is being left unsaid in the current context. The process of creating
+permanent notes should help to encapsulate what's needed to understand that
+context while providing a means for the information to stand alone.
+*** 11.1 Make a career one note at a time
+Many writers over the years (ie. Anthony Trollope) suggest writing with a goal
+of `N` pages a day. This isn't well suited for academic or nonficiton writing.
+Sonke recommends instead measuring by notes you're producing -- those represent
+the sum of reading research, understanding and synthesizing.
+*** 11.2 Think outside the brain
+Literature notes are deliberate practice testing our undertanding of a text, and
+extracting the gist into our own words more strongly checks that we understand
+it. Permanent notes are a give-me-the-proof style of verification that we /know
+what we're talking about/. Writing gives us the distance to judge this at least
+somewhat impartially.
+
+By writing perm. notes with an eye to your current notes, you can consider more
+datum and ideas than you would be able to with your brain alone -- critical also
+as the brain lies through rationalization (built for jumping to conclusions).
+
+#+begin_quote
+It is not possible to think systematically without writing (pp 94).
+#+end_quote
+
+#+begin_quote
+No, it's not a record, not really. It's working. You have to work on paper, and
+this is the paper. -- Feynman (pp 95)
+#+end_quote
+
+The thinking cannot be made external without connecting it.
+
+One way to embed the notes in the slipbox's context is explicitly naming why
+it's important for your own thought. Once you can state that information
+plainly, you can form connections by question. For example, if you state the
+importance of the topic, you can work off of 'why?' and 'is there prior art?',
+'doesn't this fit with this topic', etc.
+
+Making these questions and possible connections explicit makes the context
+itself.
+*** 11.3 Learn by not trying
+Literature notes -- stand-alone ideas -- need to be transferred into the
+slip-box context by becoming permanent notes; this also frees our mind from
+holding onto that information, letting it be freer. This is important (see
+Solomon Shereshevsky) as retaining that information verbatim (or close enough)
+enslaves that portion of mind to retention, not elaboration/creativity. A good
+goal is to shift from storage to recall -- a focus on connecting to meaningful
+contexts is more likely to increase recall.
+*** 11.4 Adding permanent notes to the slip-box
+1. Notes should be filed behind the note that directly refers to them, or the last
+   note. "The Zettelkasten" software can automatically number notes as needed
+   (note: org-roam has `org-roam-insert` for cases where a new note grows from an
+   old one).
+2. Add links to other notes or link from the new note to other notes.
+3. Make sure to add the note to the index as appropriate.
+4. Build your net of mental models!
+** 12 Develop Ideas
+New notes in the zettelkasten should reference others, though that's not really
+possible at first. When they do, you can file it behind notes. for example:
+
+- Say you have an existent note 21, and you're filing a note behind that. You'd
+  number it 22.
+- However, if 22 was already created, you'd still put it behind 21 and number it
+  21a.
+
+Digital notes are easier, numbering and sequencing happen automatically.
+
+Sequences of notes are the backbone of *text development*, blending abstract
+and topic orderings.
+
+Remember, the slip-box isn't a collection of knowledge, it's thinking. Fill gaps
+where it's relevant to your project, not every hole you see.
+*** 12.1 Develop topics
+Once added, a note needs to be locate-able -- so we use an index. Luhmann used a
+typewriter on an index card, we can use keywords. Luhmann would add 1-2 note
+refs next to a given keyword on the index. Why not more? Because this isn't a
+collection of notes, it's thinking -- a full index would mean more thinking on
+you, instead it should be on the slip-box. The slip-box surprises because of
+connections -- having a few well-selected notes in the index per-keyword is a
+good enough breadcrumb, pointing from 'just a list' to interconnected ideas.
+
+Organization of topics and subtopics comes out of our thinking and so generally
+lives in the notes, too. Given that, a hierarchy of topics could just be another
+note, one that is linked by the index. When it becomes stale, write a new one
+and update the references to the old note (much easier with digital notes/git).
+
+Think carefully about how you choose keywords -- don't categorize with keywords,
+but point towards some other note or datum in your ZK. This can help to drive
+new insight in your ZK as you file the note.
+
+*This is important and can't be automated away -- it's thinking!*
+*** 12.2 Make Smart connections
+Digital tools may make links and backlinks easy, but it's still important to
+think about where to make cross-references. Luhmann used 4 basic types of Xref
+in his slip-box.
+
+1. Links to *overviews* of a given topic. Usually linked from the index, it's the
+   entrypoint for topics that have gotten big enough to need them. It's common to
+   link to other relevant notes, usually with a short primer ("`gke` has more
+   information on the open-source scheduler implementing foo", or "home tidying:
+   `life-changing magic of tidying up`."). This overview can evolve over time and
+   the updated version referenced from the index/the previous incarnation (Note:
+   I'd think version-control would help with this, but it would hide previous
+   incarnations).
+2. Linking to the local cluster of notes. This is more helpful when you're
+   talking pen & paper, and subtopics might be a ways away from the overview
+   page.
+3. links that indicate which note is a follow-up/point to the follow ups. We can
+   do this automatically in the digital notes.
+4. note-to-note links. They don't have the functional use of the above, but
+   instead indicates connections -- 'weak links'.
+
+ Making these links is an important part of note-taking, and fortunately there's
+   a straightforward way to discover them -- walk the slip-box itself. Adding
+   these links builds the slip-box -- from our thinking -- which in turn shapes
+   our future thinking. Developing your thoughts means that new thoughts are
+   growing among stronger datum, instead of what happens to be on your mind only.
+
+   #+begin_quote
+    The slip-box is like a well-informed but down-to-earth communication partner
+    who keeps us grounded. IF we try to feed it some lofty ideas, it will force
+    us to check first: What is the reference? How does that connect to the facts
+    and the ideas you already have? (Pp 115)
+   #+end_quote
+
+*** 12.3 Compare, Correct and Differentiate
+Because a slip-box is immutable (or durable, at least) you'll know if you
+re-discover an idea. This is important as it lets you analyze with the benefit
+of time and/or see if a different viewpoint (ie a different author) give you new
+insight on the idea -- perhaps you can find the small differences between 2
+viewpoints.
+
+Comparison also lets us find contradictions, paradoxes, oppositions, which build
+insight. Reconciliation gives you an opportunity to learn, and thus contribute
+back to the slip-box and solve the problem. A paradox may mean we need more
+understanding to resolve it. oppositions provide contrast and competition, which
+can lead to new ideas.
+
+Review of information can lead to scrutinizing your notes for stronger
+information -- with new information, you may see your previous notes in a new
+light.
+
+Finally, the slip-box provides structure and durability that should ideally keep
+us from biasing towards fresh information.
+*** 12.4 Assemble a Toolbox for Thinking
+Science and thinking is pragmatic -- and many mental models are surprisingly
+useful in multiple, unrelated contexts. A broad toolbox for thinking is good not
+just for academics but for everyday life[fn:1]. Charlie Munger (right-hand to
+Warren Buffet/Berksire Hathaway) suggests searching for the most powerful
+concepts and grokking them. Once integrated and used, you gain benefits from
+them (eg. new insights). These are tools for learning.
+
+These models help you learn and understand rapidly -- more so than knowing all
+the facts of a thing. The structure of the slip-box encourages this by removing
+the burden of memory. It also drives you through various steps that help to
+forge information (elaboration) and make it useful in various contexts (spacing,
+variation) whether we're looking for it (retrieval) or stumble upon it
+(contextual interference).
+*** 12.5 Use the Slip-Box as a Creativity Machine.
+
+* Footnotes
+
+[fn:1] more so as we move towards a data-driven future -- jm
