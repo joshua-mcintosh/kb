@@ -372,7 +372,7 @@ you really understand it -- and again, this takes deliberate practice.
 Learning requires deliberate practice and a concerted effort. The reason for
 this is that you must understand what you're reading, which will require
 thinking carefully about the text. Instead of re-reading a text for
-comprehension Sonke recommends elaboration -- in this context, putting what
+comprehension Ahrens recommends elaboration -- in this context, putting what
 you've learned or understood into your own words, and connecting it to other
 knowledge.
 
@@ -393,7 +393,7 @@ context while providing a means for the information to stand alone.
 *** 11.1 Make a career one note at a time
 Many writers over the years (ie. Anthony Trollope) suggest writing with a goal
 of `N` pages a day. This isn't well suited for academic or nonficiton writing.
-Sonke recommends instead measuring by notes you're producing -- those represent
+Ahrens recommends instead measuring by notes you're producing -- those represent
 the sum of reading research, understanding and synthesizing.
 *** 11.2 Think outside the brain
 Literature notes are deliberate practice testing our undertanding of a text, and
@@ -544,6 +544,84 @@ forge information (elaboration) and make it useful in various contexts (spacing,
 variation) whether we're looking for it (retrieval) or stumble upon it
 (contextual interference).
 *** 12.5 Use the Slip-Box as a Creativity Machine.
+**** Eureka moments aren't magic :inspiration:deliberate_practice:fake_it_til_you_make_it:experience:
+Every "Eureka" moment may appear as some flash of brilliance, but in reality
+they are almost always the culmination of previous work. Fluency with your tools
+helps enable this kind of breakthrough, though. You'll need hard work before you
+can intuit solutions/procedures for problems. Practice is much more thorough
+than what we put into words -- this is especially true with the slip-box;
+learning to work with it can lead to an instinct for finding information and
+knowing which information to use.
+**** Intuition the distillation of experience :intuition:trust_your_gut:unconscious_mind:uncouncious_learner:
+#+begin_quote
+But intuition is not the opposition to rationality and knowledge, it is rather
+the incorporated, practical side of our intellectual endeavors, the sedimented
+experience on which we build our conscious, explicit knowledge (cf. Ahrens 2014).
+#+end_quote
+
+Your intuition is you, just a part of you that you can't explain -- and it's built on
+your previous knowledge and experiences. It should live alongside your rational, conscious
+mind; don't discard it (but also be critical of its directions).
+
+Steven Johnson coined this 'eureka' the "slow hunch", and suggests you need a
+space where you can collaborate and experiment to harness it. In a way, the
+slip-box fits this alongside eg. the laboratory.
+**** Incremental development to Eureka
+As mentioned, Eureka moments aren't magic, but are built on previous research. A
+key to progress is finding the small differences -- the subtleties -- in your
+work and between otherwise similar concepts or connections. Comparing 'new' data
+vs. the slip-box can lay the differences bare.
+*** 12.6 Think inside the box
+**** Rebasing ideas into new contexts for love and profit
+Ideas can interact by "playing and tinkering" with them in the slip-box. Ahrens
+has advice for this: first, you have to pull the information out of it's current
+context. We do this through abstraction (pulling the note from specific context
+to nonspecific, theoretical) and re-specification (applying it to the context).
+
+Abstraction is something we use in the everyday; in a sense, we use it whenever
+we relate to something on a emotional level or when we make connections between
+things. Abstraction is also a useful tool for solving problems (eg. by taking
+previously known applications of a thing and using it in a novel way).
+
+Once abstracted and re-specified, we have the structure of the slip-box to file
+the rebased information into a new tree/context, giving the idea new life in a
+new context.
+**** Defeating lack of data
+Our brains tend to categorize things _within_ the already-known context, even if
+the data doesn't really fit. We then need ways to break out of this -- "The 5
+Elements of Effective thinking" authors Edward B. Burger and Michael Starbird
+have some strategies.
+
+- _Feedback loops_: you need a way to confront paradox, conflict etc. Also, you
+  need to keep a focus on the subject (that doesn't skew with time). The
+  structure of the slip-box is already great for these.
+- _Verify your observations_: Don't take the first look at face value. Describe
+  your observation plainly and factually, recheck if needed. This is worth
+  highlighting; for the most part, people don't see things as they are -- their
+  brain kicks in early and rationalizes or explains what they're seeing. This
+  happens on the street, and it happens when you read too -- you don't see ink,
+  then, letters, then words etc. you project the meaning behind them as you
+  read. So as you read, revise your understanding. _beware the inclination that
+  you're open-minded_: you're just as susceptible, but you don't think you are.
+
+  You may not have a technique for dealing with this, but train yourself to ask
+  "what's missing"? Take survivorship bias: "the victors write history". A look
+  at all the successes doesn't really tell you how to succeed, nor does it say
+  how not to fail (the latter being much more important for finding success). So
+  how to deal with this? Try asking questions like "what if?" and thinking
+  through alternatives on a topic.
+**** Simple is powerful
+Take simple ideas seriously. That means that you don't take it at surface value.
+
+#+begin_example
+A stock doesn't just generate money, it's a stake in a company, so you
+shouldn't decide what to buy based on cash price, but on price vs. value -- with
+an understanding of what reality that company lives in.
+#+end_example
+
+Don't over-complicate things, deal with the actual thing's complexity. Because
+understanding a simple thing correctly could make all the difference.
+*** 12.7 Facilitate Creativity through Restrictions
 
 * Footnotes
 
