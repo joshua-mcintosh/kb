@@ -12,7 +12,7 @@ is a system that collects your thoughts, organizes them in a concerted way, and
 animates them as you work with them. This takes cognitive load off of you and
 clears the way for your brain to do majority processing, not majority recalling.
 
-** 1 Introduction
+** Introduction
 :PROPERTIES:
 :ID:       5a90dd37-2568-465c-8dad-579009de9f4c
 :END:
@@ -44,7 +44,8 @@ how to turn _thoughts_ and _discoveries_ into their own pieces and build a net
 of rich knowledge, working and connected together.
 #+end_verse
 
-** 2 Everything you need to know
+
+** Everything you need to know
 :PROPERTIES:
 :ID:       daeaa646-2773-4776-8678-f16a5192b6a5
 :END:
@@ -148,7 +149,7 @@ topical systems to develop ground-up, instead of top-down.
 
 The last piece his system had was an index. He could use the index to pin
 primers to topics.
-** 3 Everything you need to do.
+** Everything you need to do.
 :PROPERTIES:
 :ID:       774d86a9-cd26-47b6-8ad8-7cfa2f1b0615
 :END:
@@ -158,7 +159,7 @@ still work to do -- you need to edit your work, rephrase sentences, clear up
 redundancies, _cultivate_ the multiplicity of ideas. But at least the work is
 straightforward. Better, the preparation for the document is straightforward as
 well.
-** 4 Everything you need to have
+** Everything you need to have
 :PROPERTIES:
 :ID:       5cbafa52-ecda-4c31-8adb-e8fd6c149db0
 :END:
@@ -175,7 +176,7 @@ Example tools:
 :PROPERTIES:
 :ID:       1128ea99-4719-4597-bfb0-3ee03e458e29
 :END:
-** 5 Writing is the only thing that matters
+** Writing is the only thing that matters
 :PROPERTIES:
 :ID:       005888b7-693f-41c2-b2da-9b3a5d5fdb57
 :END:
@@ -198,7 +199,7 @@ Academic writing is driven by a topic or assignment, we're writing is a part of 
 quoting the book, studying does not prepare students for independent research, it /is/ independent research (pp 35).
 
 This also changes how you work through academic tasks, as you restructure them around efficient learning and aiming for your notes, to "get to the point where actual open questions arise, as these are the only questions worth writing about" (Pp 37). It shifts focus in reading too: aim for the relevant above all else and read to think to synthesize new knowledge (Pp 37).
-** 6 Simplicity is paramount
+** Simplicity is paramount
 :PROPERTIES:
 :ID:       a5ead5bf-d7ae-4c72-b988-0f6c9df8798e
 :END:
@@ -239,7 +240,7 @@ kind of notes in the first place. Take proper notes instead. (Pp. 44)
 It's important to consider what trash notes to transform to permanent, what
 notes are permanent vs project, what's worth keeping. And don't let yourself
 overbalance in any of these.
-** 7 Nobody ever starts from scratch
+** Nobody ever starts from scratch
 :PROPERTIES:
 :ID:       5603cb78-8778-4e12-8029-622d3ac0b9c0
 :END:
@@ -259,12 +260,12 @@ instead of a narrow, dictated view.
 Brainstorming is often suggested a  kickstarter, because - lacking a durable
 record, you only have your brain anyway. It's problematic as it doesn't generate
 information, moreso reminds of such.
-** 8 Let the work carry you forward
+** Let the work carry you forward
 :PROPERTIES:
 :ID:       e58c7a57-124f-4deb-af8e-45ddacd5d0a8
 :END:
 * 6 steps to successful writing
-** 9 Separate and interlocking tasks
+** Separate and interlocking tasks
 *** Give each task your undivided attention
 *** Multitasking is not a good idea
 *** Give each task the right kind of attention
